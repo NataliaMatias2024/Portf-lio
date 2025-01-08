@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(3, 3, 3);
+}
+
+h1{
+    color: rgb(252, 250, 250);
+    text-align: center;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+p{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+}
+
+img{
+
+    border-style: solid;
+    border-color: aqua;
+}
+
+button{
+    background-color: aqua;
+    color: black;
+    border-bottom: none;
+    text-align: center;
+}
